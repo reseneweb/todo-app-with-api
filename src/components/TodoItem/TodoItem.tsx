@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/label-has-associated-control */
 import React, { useState, useEffect, useRef } from 'react';
 import cn from 'classnames';
 import { Todo } from '../../types/Todo';
@@ -174,7 +175,6 @@ export const TodoItem: React.FC<Props> = ({
       className={cn('todo', {
         completed: todo.completed,
       })}
-
     >
       <label className="todo__status-label">
         <input

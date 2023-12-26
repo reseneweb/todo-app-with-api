@@ -1,3 +1,4 @@
+import React from 'react';
 import { FilterBy } from '../../types/FilterBy';
 import { Todo } from '../../types/Todo';
 import { TodosFilter } from '../TodosFilter/TodosFiter';
