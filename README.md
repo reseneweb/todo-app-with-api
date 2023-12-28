@@ -47,7 +47,7 @@ Code optimization for efficient performance, including minimizing API calls and 
 
 This project showcases an efficient combination of modern web technologies for creating a high-performance, user-friendly task management application.
 
-Project: https://reseneweb.github.io/react_todo-app-with-api/
+Project: https://reseneweb.github.io/todo-app-with-api/
 
 
 
